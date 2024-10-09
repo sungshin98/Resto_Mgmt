@@ -3,4 +3,4 @@ from mmdet.apis import DetInferencer
 inferencer = DetInferencer('rtmdet_tiny_8xb32-300e_coco')
 
 # Perform inference
-inferencer('img.png', show=True)
+inferencer('./test_data/img.png', show=True)

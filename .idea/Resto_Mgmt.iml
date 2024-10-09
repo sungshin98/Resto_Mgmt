@@ -3,6 +3,12 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/mmdetection" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/mmdetection/build" />
+      <excludeFolder url="file://$MODULE_DIR$/mmdetection/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/mmdetection/mmdet.egg-info" />
+      <excludeFolder url="file://$MODULE_DIR$/mmdetection/mmdet/.mim" />
+      <excludeFolder url="file://$MODULE_DIR$/mmdetection/work_dirs" />
+      <excludeFolder url="file://$MODULE_DIR$/test_data" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
