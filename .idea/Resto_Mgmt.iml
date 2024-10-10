@@ -10,7 +10,7 @@
       <excludeFolder url="file://$MODULE_DIR$/mmdetection/work_dirs" />
       <excludeFolder url="file://$MODULE_DIR$/test_data" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Resto_Mgmt" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
